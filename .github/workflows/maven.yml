@@ -1,4 +1,4 @@
-name: Java CI/CD Pipeline to Tomcat1
+name: Java CI/CD Pipeline to Tomcat
 
 on:
   push:
